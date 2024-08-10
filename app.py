@@ -14,6 +14,16 @@ st.markdown("""
     </style>
     """, unsafe_allow_html=True)
 
+
+
+
+
+
+
+
+
+
+
 st.markdown('<p class="custom-title">هل فيه شقق رخيصة بالرياض؟</p>', unsafe_allow_html=True)
 st.image('Meme.png')
 
